@@ -1,0 +1,24 @@
+[
+    {
+        "employeeId": 1,
+        "employeeName": "John Doee",
+        "salaryAmount": 10000,
+        "age": 29,
+        "email": "john@email.com",
+        "degreeDetails": [
+            "BA",
+            "BE"
+        ]
+    },
+    {
+        "employeeId": 2,
+        "employeeName": "John Doee",
+        "salaryAmount": 10000,
+        "age": 29,
+        "email": "john@email.com",
+        "degreeDetails": [
+            "BA",
+            "BE"
+        ]
+    }
+]
